@@ -14,7 +14,8 @@ export default function Home() {
         <h1 className={styles.title}>
           boardgaming.icu
         </h1>
-        <p>Coming soon.</p>        
+        <p>Coming soon.</p>
+        <a href="https://discord.gg/WJnSz8Sjbj">Join the discord</a>
       </main>
     </div>
   )
